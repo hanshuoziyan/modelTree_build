@@ -1,0 +1,2 @@
+#python plantRegressionResult.py reduce_datafile total small 1000000 small_reduce_datafile
+python plantRegressionResult.py reduce_datafile total big 1000000 big_reduce_datafile

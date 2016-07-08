@@ -1,0 +1,49 @@
+//200
+spInd: 0
+  spVal: [[ 32.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.49489789e+05]
+ [  2.69490118e+03]
+ [  7.25166208e-01]]
+right child: 
+
+spInd: 1
+  spVal: [[ 784000.]]
+
+ left child: 
+
+1
+leaf node: [[ -6.97011863e+04]
+ [  9.79529378e+03]
+ [  1.06291086e-02]]
+right child: 
+
+spInd: 0
+  spVal: [[ 16.]]
+
+ left child: 
+
+1
+leaf node: [[  9.65367571e+04]
+ [ -3.56152888e+03]
+ [  2.08455355e-01]]
+right child: 
+
+spInd: 1
+  spVal: [[ 78400.]]
+
+ left child: 
+
+1
+leaf node: [[ -6.90715440e+03]
+ [  1.36629563e+03]
+ [  2.38087451e-02]]
+right child: 
+
+1
+leaf node: [[  1.44984384e+01]
+ [  1.99085567e+01]
+ [  4.28158551e-03]]

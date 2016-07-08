@@ -1,0 +1,292 @@
+//100
+spInd: 1
+  spVal: [[ 96000.]]
+
+ left child: 
+
+spInd: 1
+  spVal: [[ 900000.]]
+
+ left child: 
+
+1
+leaf node: [[  1.76780943e+03]
+ [  3.99388423e+02]
+ [  5.71139767e-04]]
+right child: 
+
+spInd: 0
+  spVal: [[ 30.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.07131614e+04]
+ [  4.92981599e+02]
+ [  1.13322405e-02]]
+right child: 
+
+1
+leaf node: [[ -3.48313720e+03]
+ [  4.06714793e+02]
+ [  8.76733567e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 16.]]
+
+ left child: 
+
+1
+leaf node: [[ -4.44933585e+02]
+ [  3.29710601e+00]
+ [  6.79989301e-02]]
+right child: 
+
+1
+leaf node: [[ -1.69261242e+02]
+ [  2.39391052e+01]
+ [  6.64059707e-03]]
+spInd: 1
+  spVal: [[ 96000.]]
+
+ left child: 
+
+spInd: 1
+  spVal: [[ 1000000.]]
+
+ left child: 
+
+1
+leaf node: [[ -6.11381701e+02]
+ [  3.08830571e+02]
+ [  1.22448216e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 30.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.05348987e+04]
+ [  4.87304787e+02]
+ [  1.15524704e-02]]
+right child: 
+
+spInd: 1
+  spVal: [[ 496000.]]
+
+ left child: 
+
+1
+leaf node: [[ -6.40142528e+03]
+ [  4.41133601e+02]
+ [  1.24095169e-02]]
+right child: 
+
+1
+leaf node: [[ -2.07323381e+03]
+ [  3.61048996e+02]
+ [  5.59500067e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 16.]]
+
+ left child: 
+
+1
+leaf node: [[ -4.44933585e+02]
+ [  3.29710601e+00]
+ [  6.79989301e-02]]
+right child: 
+
+1
+leaf node: [[ -1.69261242e+02]
+ [  2.39391052e+01]
+ [  6.64059707e-03]]
+spInd: 1
+  spVal: [[ 96000.]]
+
+ left child: 
+
+spInd: 1
+  spVal: [[ 1000000.]]
+
+ left child: 
+
+1
+leaf node: [[ -6.11381701e+02]
+ [  3.08830571e+02]
+ [  1.22448216e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 30.]]
+
+ left child: 
+
+spInd: 0
+  spVal: [[ 40.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.46310214e+03]
+ [  3.32031975e+02]
+ [  1.01843727e-02]]
+right child: 
+
+1
+leaf node: [[ -3.64789330e+04]
+ [  1.21384171e+03]
+ [  1.33963590e-02]]
+right child: 
+
+spInd: 0
+  spVal: [[ 14.]]
+
+ left child: 
+
+1
+leaf node: [[ -9.27850898e+03]
+ [  6.41748446e+02]
+ [  9.98350611e-03]]
+right child: 
+
+1
+leaf node: [[ -3.19740251e+03]
+ [  4.34205956e+02]
+ [  8.64387061e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 32.]]
+
+ left child: 
+
+1
+leaf node: [[  1.77628439e+03]
+ [ -4.58858761e+01]
+ [  1.01058024e-01]]
+right child: 
+
+spInd: 0
+  spVal: [[ 16.]]
+
+ left child: 
+
+1
+leaf node: [[  4.42351364e+03]
+ [ -1.73148815e+02]
+ [  5.21212350e-02]]
+right child: 
+
+spInd: 1
+  spVal: [[ 36800.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.81967102e+02]
+ [  4.90165392e+01]
+ [  3.37952051e-03]]
+right child: 
+
+1
+leaf node: [[  6.97349449e+00]
+ [  5.43994090e+00]
+ [  4.73489084e-03]]
+spInd: 1
+  spVal: [[ 96000.]]
+
+ left child: 
+
+spInd: 1
+  spVal: [[ 1000000.]]
+
+ left child: 
+
+1
+leaf node: [[ -6.11381701e+02]
+ [  3.08830571e+02]
+ [  1.22448216e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 32.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.11021170e+03]
+ [  3.27228115e+02]
+ [  1.00903376e-02]]
+right child: 
+
+spInd: 0
+  spVal: [[ 18.]]
+
+ left child: 
+
+1
+leaf node: [[  1.07806253e+04]
+ [ -2.55861891e+02]
+ [  1.32834991e-02]]
+right child: 
+
+spInd: 1
+  spVal: [[ 500000.]]
+
+ left child: 
+
+1
+leaf node: [[ -8.87893420e+03]
+ [  3.39682657e+02]
+ [  1.65151130e-02]]
+right child: 
+
+1
+leaf node: [[ -1.62737751e+03]
+ [  1.96206041e+02]
+ [  9.05501265e-03]]
+right child: 
+
+spInd: 0
+  spVal: [[ 32.]]
+
+ left child: 
+
+1
+leaf node: [[  1.77628439e+03]
+ [ -4.58858761e+01]
+ [  1.01058024e-01]]
+right child: 
+
+spInd: 0
+  spVal: [[ 16.]]
+
+ left child: 
+
+1
+leaf node: [[  4.42351364e+03]
+ [ -1.73148815e+02]
+ [  5.21212350e-02]]
+right child: 
+
+spInd: 1
+  spVal: [[ 36800.]]
+
+ left child: 
+
+1
+leaf node: [[ -1.81967102e+02]
+ [  4.90165392e+01]
+ [  3.37952051e-03]]
+right child: 
+
+1
+leaf node: [[  6.97349449e+00]
+ [  5.43994090e+00]
+ [  4.73489084e-03]]
